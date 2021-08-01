@@ -13,3 +13,7 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 ## Running unit tests
 
 Run `ng test` to execute the unit tests via [Karma]
+
+## Other notes
+
+I have used socket.io client on angular part and socket.io server on nodejs
