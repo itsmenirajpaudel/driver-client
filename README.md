@@ -17,3 +17,7 @@ Run `ng test` to execute the unit tests via [Karma]
 ## Other notes
 
 I have used socket.io client on angular part and socket.io server on nodejs
+
+## Output Video
+
+https://www.youtube.com/watch?v=lN-gZwNduIg
